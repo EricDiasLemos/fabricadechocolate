@@ -1,3 +1,7 @@
+//Alunos:
+//Gabriel Henrique RA:42210808
+//Eric Dias RA:42124121
+
 public class CaldeiraChocolate {
 
     private boolean vazia = true;
